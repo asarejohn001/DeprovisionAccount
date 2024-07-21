@@ -1,5 +1,5 @@
 # Note
-This is a subcode from my [MicrosoftEntra_AzureAD](MicrosoftEntra_AzureAD) respiratory.
+This is a subcode from my [MicrosoftEntra_AzureAD](https://github.com/asarejohn001/MicrosoftEntra_AzureAD) respiratory.
 
 ## Deprovision
 The [Deprovision User Account script](DeprovisionUserAccount.ps1) will delete the user's account from Microsoft Entra. The script will:
